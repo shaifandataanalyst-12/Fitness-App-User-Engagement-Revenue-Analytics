@@ -34,5 +34,7 @@ Fitness app dataset containing:
 - Paid subscription users showed higher engagement levels compared to free users.
 
 ## Dashboard
-![Dashboard Screenshot]<img width="1326" height="719" alt="Screenshot 2026-02-28 162638" src="https://github.com/user-attachments/assets/4add0e24-a9ee-4f95-bbdd-a7e2cbf58e79" />
+![Dashboard Screenshot]
+<img width="1349" height="782" alt="Screenshot 2026-02-28 162626" src="https://github.com/user-attachments/assets/a70aa9a0-5b90-4e93-b5dd-466a57e55705" />
 
+<img width="1326" height="719" alt="Screenshot 2026-02-28 162638" src="https://github.com/user-attachments/assets/4add0e24-a9ee-4f95-bbdd-a7e2cbf58e79" />
