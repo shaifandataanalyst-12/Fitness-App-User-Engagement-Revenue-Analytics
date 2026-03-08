@@ -35,4 +35,4 @@ Fitness app dataset containing:
 
 ## Dashboard
 ![Dashboard Screenshot]<img width="1326" height="719" alt="Screenshot 2026-02-28 162638" src="https://github.com/user-attachments/assets/4add0e24-a9ee-4f95-bbdd-a7e2cbf58e79" />
-<img width="1349" height="782" alt="Screenshot 2026-02-28 162626" src="https://github.com/user-attachments/assets/59317c5a-f0cd-4bc3-84f0-67a181e2e727" />
+
