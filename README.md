@@ -25,6 +25,7 @@ Fitness app dataset containing:
 - User segmentation analysis
 - Revenue performance analysis
 - Churn and retention analysis
+- Made 15+ data attributes using Power Query for accurate reporting
 - Dashboard development
 
 ## Key Insights
